@@ -1,3 +1,3 @@
-h1. reason
+# reason
 
-[WIP]
+This library is currently a work in progress.
